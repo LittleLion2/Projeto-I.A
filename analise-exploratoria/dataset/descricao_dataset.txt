@@ -1,0 +1,6 @@
+Student Performance & Behavior Dataset
+Dados: Identificação, demografia, desempenho (provas, participação, trabalhos), hábitos de estudo, fatores socioeconômicos e indicadores de bem-estar. 
+
+
+Student Performance & Learning Style
+Dados: Identificação, perfil (idade, gênero, estilo de aprendizagem), engajamento (horas de estudo, participação, tecnologia educacional) e desempenho. 
